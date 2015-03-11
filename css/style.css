@@ -94,6 +94,9 @@ nav a {
 form {
     height: 50px;
     width: 1139px;
+    margin-right: auto;
+    margin-left: auto;
+
 }
 input {
     width: 539px;
